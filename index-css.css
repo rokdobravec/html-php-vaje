@@ -1,0 +1,37 @@
+		body
+		{
+		background-color: rgba(128,128,128);
+		padding: 0px;
+		margin: 0px;
+		border: none;
+		}
+		h1
+		{
+		font-size: 40px;
+		text-decoration: underline;
+		color: black;
+		text-align: center;
+		text-shadow: 4px 4px 2px silver;
+		}
+		table
+		{
+		margin: auto;
+		}
+		td
+		{
+		position: middle;
+		height: auto;
+		width: auto;
+		float: left;
+		padding: 10px;
+		margin: 10px;
+		background-color: black;
+		opacity: 50%;
+		box-shadow: 0px 0px 5px 5px #A0A0A0;
+		}
+		td:hover
+		{
+		background-color: rgba(128,128,128);
+		opacity: 1;
+		box-shadow: 0px 0px 5px 3px #000000;
+		}
